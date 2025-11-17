@@ -1,4 +1,8 @@
-# 📘 Employee Information Management System
+#  Employee Information Management System
+
+![Language](https://img.shields.io/badge/language-java-blue)
+![Platform](https://img.shields.io/badge/platform-Console-green)
+![Status](https://img.shields.io/badge/status-Active-success)
 
 *A Java Console Application with Payroll, Tax & Pension Calculation*
 
@@ -7,7 +11,7 @@ The program calculates salary details (tax, allowances, pension, deductions, net
 
 ---
 
-## 🌟 Features
+##  Features
 
 ### 🔹 **Add New Employee**
 
@@ -66,7 +70,7 @@ Cleanly closes the program.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 EmployeeInformationManagementSystem/
@@ -78,7 +82,7 @@ EmployeeInformationManagementSystem/
 
 ---
 
-## 🧮 Payroll Logic (Built-in)
+## Payroll Logic (Built-in)
 
 ### ✔ Position Allowance
 
@@ -112,7 +116,7 @@ EmployeeInformationManagementSystem/
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### 1️⃣ Compile:
 
